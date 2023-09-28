@@ -1,4 +1,3 @@
-# **unwind_mind** #
 ## About ##
 This page is designed to provide insights on some of the distressing methods that I personally found helpful, so others could perhaps get some ideas. To be honest, this is for my compsci homework..but I enjoyed sharing thoughts on this topic :)
 
@@ -34,6 +33,7 @@ Some well-known meditation apps to give a try:
 
 ## Author's Note ##
 These practices have been my personal anchors in turbulent times, but it's essential to remember that there's no one-size-fits-all solution for stress. Each individual is unique, and the path to relaxation is a highly personal journey. Whether it's nature walks, yoga, cooking, or any other activity that brings you peace, the options are as diverse as we are. Embrace the freedom to explore, and let your heart guide you to your own oasis of calm. Countless threads await your discovery; all you need to do is to click a search button.
+
 
 
 [^1] [Where to buy]((https://www.amazon.com/Kisoy-Romantic-Dollhouse-Miniature-Creative/dp/B07V5DVRS4/ref=sr_1_2?keywords=tea+garden+miniature&qid=1695894892&sr=8-2))
