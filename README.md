@@ -18,7 +18,7 @@ I have actually started journaling way before I really started to listen to musi
 
 
 ## Miniature ##
-With the pandemic came endless free time, which made me more space to store my concerns. In order to minimize this time, I searched for something new to take up myself. I started to make miniatures, with first one being a _Tea Garden_([Where to buy](https://www.amazon.com/Kisoy-Romantic-Dollhouse-Miniature-Creative/dp/B07V5DVRS4/ref=sr_1_2?keywords=tea+garden+miniature&qid=1695894892&sr=8-2))Later, as I continued to do this for a couple of years, I realized that it was helping with stress. The meticulous process of crafting these tiny worlds allows me to escape the chaos of everyday life and immerse myself in a world of creativity and focus. As I painstakingly assemble miniature furniture or build intricate landscapes, my mind shifts away from worries and stressors. When I gaze upon the finished miniature, it brings a huge satisfaction and joy.
+With the pandemic came endless free time, which made me more space to store my concerns. In order to minimize this time, I searched for something new to take up myself. I started to make miniatures, with first one being a _Tea Garden_[^1]. Later, as I continued to do this for a couple of years, I realized that it was helping with stress. The meticulous process of crafting these tiny worlds allows me to escape the chaos of everyday life and immerse myself in a world of creativity and focus. As I painstakingly assemble miniature furniture or build intricate landscapes, my mind shifts away from worries and stressors. When I gaze upon the finished miniature, it brings a huge satisfaction and joy.
 ![Picture of miniature that I made](miniature.png)
 
 
@@ -34,3 +34,6 @@ Some well-known meditation apps to give a try:
 
 ## Author's Note ##
 These practices have been my personal anchors in turbulent times, but it's essential to remember that there's no one-size-fits-all solution for stress. Each individual is unique, and the path to relaxation is a highly personal journey. Whether it's nature walks, yoga, cooking, or any other activity that brings you peace, the options are as diverse as we are. Embrace the freedom to explore, and let your heart guide you to your own oasis of calm. Countless threads await your discovery; all you need to do is to click a search button.
+
+
+[^1] [Where to buy]((https://www.amazon.com/Kisoy-Romantic-Dollhouse-Miniature-Creative/dp/B07V5DVRS4/ref=sr_1_2?keywords=tea+garden+miniature&qid=1695894892&sr=8-2))
