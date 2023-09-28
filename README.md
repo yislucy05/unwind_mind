@@ -37,5 +37,3 @@ These practices have been my personal anchors in turbulent times, but it's essen
 
 *** additional link ***
 [^1] [Where to buy]((https://www.amazon.com/Kisoy-Romantic-Dollhouse-Miniature-Creative/dp/B07V5DVRS4/ref=sr_1_2?keywords=tea+garden+miniature&qid=1695894892&sr=8-2))
-
-The background color is `rgb(79,87,94)` for light mode and `#000000` for dark mode.
