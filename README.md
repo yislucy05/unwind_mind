@@ -9,7 +9,7 @@ Remember: Even in the midst of chaos, there’s a melody of peace waiting for an
 [Learn more about Coping Through Music](https://en.wikipedia.org/wiki/Music_as_a_coping_strategy)
 
 ## Journal ##
-![Pictures of journals I have used so far](src)
+![Pictures of journals I have used so far](journals.png)
 I have actually started journaling way before I really started to listen to music all the time. First time I ever wrote a journal was when I was in 4th grade, as I immigrated to the United States with my family. At the time, there wasn't really anyone to share my concerns, because I didn't want to raise additional worries to my parents and my younger brother, who was also going through a hard time like me. Personally, putting pen to paper allows me to untangle the jumbled mess of thoughts and emotions in my mind. It’s like giving voice to my inner turmoil. Over time, this practice has made me more self-aware and better equipped to manage stress. Research also suggests that journaling helps reduce stress by promoting self-reflection and emotiaonl processing.
 [Learn more about Journaling](https://greatergood.berkeley.edu/article/item/how_journaling_can_help_you_in_hard_times)
 
