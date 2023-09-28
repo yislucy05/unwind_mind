@@ -15,7 +15,7 @@ I have actually started journaling way before I really started to listen to musi
 
 ## Miniature ##
 With the pandemic came endless free time, which made me more space to store my concerns. In order to minimize this time, I searched for something new to take up myself. I started to make miniatures, with first one being a _Tea Garden_([Where to buy](https://www.amazon.com/Kisoy-Romantic-Dollhouse-Miniature-Creative/dp/B07V5DVRS4/ref=sr_1_2?keywords=tea+garden+miniature&qid=1695894892&sr=8-2))Later, as I continued to do this for a couple of years, I realized that it was helping with stress. The meticulous process of crafting these tiny worlds allows me to escape the chaos of everyday life and immerse myself in a world of creativity and focus. As I painstakingly assemble miniature furniture or build intricate landscapes, my mind shifts away from worries and stressors. When I gaze upon the finished miniature, it brings a huge satisfaction and joy.
-![Picture of miniature that I made](/assets/images/mimiature.png)
+![Picture of miniature that I made](mimiature.png)
 
 ## Meditation ##
 While I haven't made meditation a regular practice, I've heard how profoundly it can help with stress, and there's solid science to back it up. Meditation is like a mental gym for relaxation, honing your mind's ability to focus and remain calm. The scientific reasoning behind this is that meditation triggers the relaxation response, which reduces the production of stress hormones like cortisol. Even though I'm not a regular practitioner, I've tried meditation with calm music on, in which I was able to feel peace. It's quite incredible how just a few minutes of quiet contemplation can reset the mind.
